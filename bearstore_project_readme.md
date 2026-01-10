@@ -23,7 +23,7 @@
 
 ---
 
-## 🎯 Project Overview
+## Project Overview
 
 BearStore is an e-commerce web application that allows users to browse products, manage shopping carts, and complete purchases. This project involved comprehensive manual testing to ensure the platform meets functional requirements and provides a smooth user experience.
 
@@ -41,7 +41,7 @@ BearStore is an e-commerce web application that allows users to browse products,
 
 ---
 
-## 🔍 Testing Scope
+## Testing Scope
 
 #### 1. User Management Module
 - User Registration with email validation
@@ -86,7 +86,7 @@ BearStore is an e-commerce web application that allows users to browse products,
 
 ---
 
-## 🖥️ Test Environment
+## Test Environment
 
 ### Browsers Tested
 | Browser | Version | OS |
@@ -96,7 +96,7 @@ BearStore is an e-commerce web application that allows users to browse products,
 
 ---
 
-## ✅ Testing Activities
+## Testing Activities
 
 ### Test Planning & Design
 1. **Requirements Analysis**
@@ -141,7 +141,7 @@ BearStore is an e-commerce web application that allows users to browse products,
 
 ---
 
-## 📂 Test Deliverables
+## Test Deliverables
 
 ### 1. Test Cases
 Comprehensive test case documentation covering all modules:
@@ -219,7 +219,7 @@ Visual documentation from Jira and Zephyr:
 
 ---
 
-## 📊 Key Metrics
+## Key Metrics
 
 ### Test Coverage
 - **Overall Coverage:** 95%
@@ -256,7 +256,7 @@ Visual documentation from Jira and Zephyr:
 
 ---
 
-## 🎯 Key Achievements
+## Key Achievements
 
 ✅ **Critical Bug Prevention**
 - Identified 2 critical bugs in checkout flow before UAT
@@ -280,7 +280,7 @@ Visual documentation from Jira and Zephyr:
 
 ---
 
-## 💡 Key Learnings
+## Key Learnings
 
 
 📚 **Technical Skills**
@@ -301,7 +301,7 @@ Visual documentation from Jira and Zephyr:
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 | Tool | Purpose | Usage |
 |------|---------|-------|
@@ -313,7 +313,7 @@ Visual documentation from Jira and Zephyr:
 
 ---
 
-## 📈 Test Coverage Matrix
+## Test Coverage Matrix
 
 ### Feature Priority vs Test Coverage
 
@@ -329,7 +329,7 @@ Visual documentation from Jira and Zephyr:
 
 ---
 
-## 🔗 Related Links
+## Related Links
 
 - **Application URL:** https://bearstore-testsite.smartbear.com/
 
@@ -344,7 +344,7 @@ If you have any questions about this project or would like to discuss testing ap
 
 ---
 
-## 📝 Project Status
+## Project Status
 
 **Current Status:** ✅ Completed  
 **Last Updated:** January 2026
