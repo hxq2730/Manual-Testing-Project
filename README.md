@@ -4,7 +4,7 @@
 
 **Application Under Test:** BearStore E-Commerce Platform  
 **URL:** https://bearstore-testsite.smartbear.com/  
-**Project Duration:** [September 2025 - December 2025]  
+**Project Duration:** [June 2025 - September 2025]  
 **Testing Type:** Manual Functional Testing  
 **Methodology:** Agile/Scrum  
 **My Role:** Manual QA Tester  
