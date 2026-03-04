@@ -4,7 +4,7 @@
 
 **Application Under Test:** BearStore E-Commerce Platform  
 **URL:** https://bearstore-testsite.smartbear.com/  
-**Project Duration:** [June 2025 - September 2025]  
+**Project Duration:** [September 2025 - October 2025]  
 **Testing Type:** Manual Functional Testing  
 **Methodology:** Agile/Scrum  
 **My Role:** Manual QA Tester  
@@ -289,7 +289,7 @@ Visual documentation from Jira and Zephyr:
 - Better understanding of e-commerce workflows and edge cases
 
 📚 **Tools & Processes**
-- Advanced Jira/Zephyr features for test management
+- Advanced Jira/Zephyr/TestRail features for test management
 - Excel formulas for test metrics and reporting
 - Efficient test execution strategies
 
